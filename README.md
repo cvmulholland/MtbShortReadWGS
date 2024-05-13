@@ -1,0 +1,1 @@
+This repository contains scripts associated with the manuscript entitled "Propionate prevents loss of the PDIM virulence lipid in Mycobacterium tuberculosis" published in Nature Microbiology: https://doi.org/10.1038/s41564-024-01697-8 
